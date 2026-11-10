@@ -16,7 +16,7 @@ Wikidata is the primary structured database crawled by Google's Knowledge Graph 
    * **Language:** English (`en`)
    * **Label:** `Ilyass Sif`
    * **Description:** `Moroccan computer scientist and software developer`
-   * **Aliases:** `re3gi`, `ilyass-sif`
+   * **Aliases:** `ilyasssif`, `re3gi`
 3. Click **Create**.
 
 ---
@@ -31,14 +31,14 @@ Once the item is created, click **"+ add statement"** for each of the following:
 | **country of citizenship** (`P27`) | `Morocco` (`Q1028`) |
 | **occupation** (`P106`) | `programmer` (`Q5482740`) |
 | **field of work** (`P101`) | `machine learning` (`Q2539`) |
-| **official website** (`P856`) | `https://re3gi.github.io/` |
-| **GitHub username** (`P2037`) | `re3gi` |
+| **official website** (`P856`) | `https://ilyasssif.github.io/` |
+| **GitHub username** (`P2037`) | `ilyasssif` |
 
 ---
 
 ### Step 4: Add References to Statements
 For each statement (especially `occupation`, `GitHub username`, and `official website`), click **"+ add reference"**:
-* **stated in / reference URL:** `https://github.com/re3gi`
+* **stated in / reference URL:** `https://github.com/ilyasssif`
 * **retrieval date:** Today's date
 
 ---

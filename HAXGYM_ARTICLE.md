@@ -1,9 +1,9 @@
 # Accelerating Multi-Agent Reinforcement Learning with JAX: Inside HaxGym
 
-**Author:** Ilyass Sif (@re3gi)  
+**Author:** Ilyass Sif (@ilyasssif)  
 *Software Developer & Machine Learning Researcher*  
-*Website:* [https://re3gi.github.io](https://re3gi.github.io)  
-*GitHub:* [https://github.com/re3gi/HaxGym](https://github.com/re3gi/HaxGym)
+*Website:* [https://ilyasssif.github.io](https://ilyasssif.github.io)  
+*GitHub:* [https://github.com/ilyasssif/HaxGym](https://github.com/ilyasssif/HaxGym)
 
 ---
 
@@ -52,6 +52,6 @@ As part of the project, trained checkpoints and futsal policy weights have been 
 Vectorized, compiler-driven simulation is reshaping modern reinforcement learning. By leveraging JAX's transformation primitives, HaxGym demonstrates that competitive, physics-based multi-agent environments can achieve massive throughput on single consumer accelerators.
 
 Explore the source code, benchmarks, and experiment configs at:
-* **GitHub Repository:** [re3gi/HaxGym](https://github.com/re3gi/HaxGym)
+* **GitHub Repository:** [ilyasssif/HaxGym](https://github.com/ilyasssif/HaxGym)
 * **Models on Hugging Face:** [huggingface.co/RE3GI](https://huggingface.co/RE3GI)
-* **Author Profile:** Ilyass Sif ([re3gi.github.io](https://re3gi.github.io))
+* **Author Profile:** Ilyass Sif ([ilyasssif.github.io](https://ilyasssif.github.io))
